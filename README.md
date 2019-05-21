@@ -1,4 +1,4 @@
-# spring-framework-reference-5.1.3 (大纲结构终于弄完了，接下来要填内容了...)
+# spring-framework-reference-5.1.3 (目录结构都有了，就差逐步填坑了...)
 Spring Framework Documentation version 5.1.3.RELEASE 中译本（Spring-中文参考手册-5.1.3）
   
 * [概述](./概述)
